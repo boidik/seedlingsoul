@@ -1,7 +1,7 @@
 {
   "pageTitle": "About Me",
   "tagline": "BORN TO FLY",
-  "bio": "Aiswarya Chakravorty is a clinical psychologist with a passion for research and teaching. She has a **B.Sc., M.Sc., and M.Phil. in Psychology from Calcutta University and The West Bengal University of Health Sciences.** She is a **former clinical psychologist of NIMHANS, Bangalore** and **currently attached with Caluctta National Medical College**. She has conducted research on topics such as *depression, body image, emotional regulation, coping style, meaning of life, and personality traits.* She has also worked as a psychologist and a guest lecturer in various organizations, including **NAMAH Foundation, National Institute of Behavioral Sciences, West Bengal State University, Ruby General Hospital, and National Institute of Mental Health and Neuro-Sciences**. She is currently working as a part-time clinical psychologist at Mind Mentor Clinic at Garia, Care & Cure Clinic at Jodhpur Park and Pulse Diagnostics at Sarat Bose Road. She has participated in several workshops and seminars on clinical psychology and has received an award for securing the highest marks in Psychology Honors examination in 2016. She is fluent in English and Bengali and enjoys reading, writing, and traveling.",
+  "bio": "Aiswarya Chakravorty is a clinical psychologist with a passion for research and teaching. She has a **B.Sc., M.Sc., and M.Phil. in Psychology from Calcutta University and The West Bengal University of Health Sciences.** She is a **former clinical psychologist of NIMHANS, Bangalore** and **currently attached with Calcutta National Medical College**. She has conducted research on topics such as *depression, body image, emotional regulation, coping style, meaning of life, and personality traits.* She has also worked as a psychologist and a guest lecturer in various organizations, including **NAMAH Foundation, National Institute of Behavioral Sciences, West Bengal State University, Ruby General Hospital, and National Institute of Mental Health and Neuro-Sciences**. She is currently working as a part-time clinical psychologist at Mind Mentor Clinic at Garia, Care & Cure Clinic at Jodhpur Park and Pulse Diagnostics at Sarat Bose Road. She has participated in several workshops and seminars on clinical psychology and has received an award for securing the highest marks in Psychology Honors examination in 2016. She is fluent in English and Bengali and enjoys reading, writing, and traveling.",
   "ctaText": "Get an appointment today",
   "portrait": "assets/images/about-portrait.jpg",
   "events": [
@@ -9,43 +9,100 @@
       "colorTheme": "peach",
       "description": "On March 12, 2024, at 5 P.M. IST All India Radio in collaboration with Health and Family Welfare Ministry, Government of West Bengal aired a program where psychological counselor Aiswarya Chakravorty discussed the management of ADHD. The insightful conversation took place with the host, Sritama Mukhopadhyay. Aiswarya Chakravorty shared valuable insights and strategies for coping with Attention Deficit Hyperactivity Disorder (ADHD).",
       "images": [
-        { "src": "assets/images/air-1.jpg", "alt": "Aiswarya Chakravorty at AIR, Kolkata" },
-        { "src": "assets/images/air-2.jpg", "alt": "Aiswarya Chakravorty at AIR, Kolkata" },
-        { "src": "assets/images/air-3-poster.jpg", "alt": "AIR Poster on ADHD Awareness" }
+        {
+          "src": "assets/images/air-1.jpg",
+          "alt": "Aiswarya Chakravorty at AIR, Kolkata"
+        },
+        {
+          "src": "assets/images/air-2.jpg",
+          "alt": "Aiswarya Chakravorty at AIR, Kolkata"
+        },
+        {
+          "src": "assets/images/air-3-poster.jpg",
+          "alt": "AIR Poster on ADHD Awareness"
+        }
       ]
     },
     {
       "colorTheme": "lime",
       "description": "Aiswarya Chakravorty delivered an insightful presentation on \"Inside Addiction\" at Vidyasagar Bhawan, Brainware University, on January 30th, 2026. Her exploration of the psychological aspects of substance abuse captivated a diverse audience and sparked meaningful discussions. Attendees praised the session as a foundational discourse on a pressing contemporary issue, highlighting the importance of addressing addiction from a psychological perspective. The positive feedback reflects the relevance and impact of her.",
       "images": [
-        { "src": "assets/images/addiction-1-team.jpeg", "alt": "Inside Addiction - Team" },
-        { "src": "assets/images/addiction-2-speech.jpeg", "alt": "Inside Addiction - Speech" },
-        { "src": "assets/images/addiction-3-felicitation.jpeg", "alt": "Inside Addiction - Felicitation" },
-        { "src": "assets/images/addiction-4-stage.jpeg", "alt": "Inside Addiction - Stage and Poster" },
-        { "src": "assets/images/addiction-5-audience.jpeg", "alt": "Inside Addiction - Audience" }
+        {
+          "src": "assets/images/addiction-1-team.jpeg",
+          "alt": "Inside Addiction - Team"
+        },
+        {
+          "src": "assets/images/addiction-2-speech.jpeg",
+          "alt": "Inside Addiction - Speech"
+        },
+        {
+          "src": "assets/images/addiction-3-felicitation.jpeg",
+          "alt": "Inside Addiction - Felicitation"
+        },
+        {
+          "src": "assets/images/addiction-4-stage.jpeg",
+          "alt": "Inside Addiction - Stage and Poster"
+        },
+        {
+          "src": "assets/images/addiction-5-audience.jpeg",
+          "alt": "Inside Addiction - Audience"
+        }
       ]
     },
     {
       "colorTheme": "peach",
       "description": "On the occasion of International Women’s Day, I was invited as a speaker at the DVC Tower by Damodar Valley Corporation (DVC). The topic of my talk was ‘Mental Health and Emotional Strength of Modern Women.",
       "images": [
-        { "src": "assets/images/dvc-01.jpeg", "alt": "DVC Tower International Women's Day Talk 1" },
-        { "src": "assets/images/dvc-02.jpeg", "alt": "DVC Tower International Women's Day Talk 2" },
-        { "src": "assets/images/dvc-03.jpeg", "alt": "DVC Tower International Women's Day Talk 3" },
-        { "src": "assets/images/dvc-04.jpeg", "alt": "DVC Tower International Women's Day Talk 4" },
-        { "src": "assets/images/dvc-05.jpeg", "alt": "DVC Tower International Women's Day Talk 5" },
-        { "src": "assets/images/dvc-06.jpeg", "alt": "DVC Tower International Women's Day Talk 6" },
-        { "src": "assets/images/dvc-07.jpeg", "alt": "DVC Tower International Women's Day Talk 7" },
-        { "src": "assets/images/dvc-08.jpeg", "alt": "DVC Tower International Women's Day Talk 8" },
-        { "src": "assets/images/dvc-09.jpeg", "alt": "DVC Tower International Women's Day Talk 9" },
-        { "src": "assets/images/dvc-10.jpeg", "alt": "DVC Tower International Women's Day Talk 10" }
+        {
+          "src": "assets/images/dvc-01.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 1"
+        },
+        {
+          "src": "assets/images/dvc-02.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 2"
+        },
+        {
+          "src": "assets/images/dvc-03.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 3"
+        },
+        {
+          "src": "assets/images/dvc-04.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 4"
+        },
+        {
+          "src": "assets/images/dvc-05.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 5"
+        },
+        {
+          "src": "assets/images/dvc-06.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 6"
+        },
+        {
+          "src": "assets/images/dvc-07.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 7"
+        },
+        {
+          "src": "assets/images/dvc-08.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 8"
+        },
+        {
+          "src": "assets/images/dvc-09.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 9"
+        },
+        {
+          "src": "assets/images/dvc-10.jpeg",
+          "alt": "DVC Tower International Women's Day Talk 10"
+        }
       ]
     },
     {
       "colorTheme": "lime",
       "description": "A Radio program at Akashvani Bhawan on 10th February, 2026 deliberated on the topic of mental health and wellness.",
       "images": [
-        { "src": "assets/images/akashvani-1.jpeg", "alt": "Radio program at Akashvani Bhawan" }
+        {
+          "src": "assets/images/akashvani-1.jpeg",
+          "alt": "Radio program at Akashvani Bhawan"
+        }
       ]
     }
   ]
