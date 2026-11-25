@@ -1,0 +1,31 @@
+{
+  "intro": "The counsellor will be available at:",
+  "clinics": [
+    {
+      "name": "Health Point Hospital",
+      "area": "Sarat Bose Road",
+      "mapUrl": "https://share.google/fhNekpTKhPOwP68xP",
+      "days": "Tuesday"
+    },
+    {
+      "name": "Psynapse",
+      "area": "Beck Bagan",
+      "mapUrl": "https://g.co/kgs/dn4xeq8",
+      "days": "Monday, Friday"
+    },
+    {
+      "name": "Care & Cure Clinic",
+      "area": "Jodhpur Park",
+      "mapUrl": "https://g.co/kgs/sZCC3w",
+      "days": "Thursday, Saturday"
+    },
+    {
+      "name": "Mind Mentor Clinic",
+      "area": "Garia",
+      "mapUrl": "https://g.co/kgs/G1xJii",
+      "days": "Wednesday"
+    }
+  ],
+  "callButtonText": "Call to book an appointment",
+  "bookingPhone": "+917980259266"
+}

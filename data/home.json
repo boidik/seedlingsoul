@@ -1,0 +1,63 @@
+{
+  "heroLead": "Find your inner peace with",
+  "heroName": "Aiswarya Chakravorty",
+  "heroSubtitle": "Clinical Psychologist based in Kolkata",
+  "heroRci": "(RCI Registered)",
+  "heroCtaText": "Book an Appointment Today",
+  "aboutTitle": "About me",
+  "aboutName": "My name is Aiswarya Chakravorty",
+  "aboutRegNo": "A79837",
+  "aboutDetails": [
+    "B. Sc, M. sc. (Calcutta University)",
+    "M. Phil in Clinical Psychology Institute of Psychiatry, SSKM HOSPITAL (IOP- COE)",
+    "Currently attached with Calcutta National Medical College",
+    "Former Clinical Psychologist of NIMHANS, Bangalore"
+  ],
+  "aboutCtaText": "Know More",
+  "aboutPhoto": "assets/images/home-portrait.jpg",
+  "expertiseHeading": "Expertise in the fields of",
+  "expertiseItems": [
+    "Cognitive Behavioural Therapy",
+    "Dialectical Behavioural Therapy",
+    "Acceptance Commitment Therapy",
+    "Adolescent Psychology",
+    "Psychometric Assessment - Adults & Children",
+    "Parent Management",
+    "Stress Management",
+    "Vocational Counselling",
+    "Career Counselling",
+    "Individual Psychotherapy",
+    "Couples Therapy",
+    "Family Therapy"
+  ],
+  "gettingHelpTitle": "Getting Help",
+  "gettingHelpImage": "assets/images/getting-help-wordcloud.png",
+  "gettingHelpText": "As a clinical psychologist, I’m here to offer my expertise and support to help you navigate difficult times. If you’re struggling with anxiety, low self-esteem, depression, anger management, or stress, don’t hesitate to reach out. I’m here to provide a safe and confidential space where you can freely express yourself and work toward a more fulfilling life.",
+  "quotes": [
+    {
+      "text": "The good life is a process, not a state of being. It is a direction, not a destination.",
+      "author": "Carl Rogers",
+      "bgColor": "#FADCD6"
+    },
+    {
+      "text": "Love and work... work and love, that's all there is.",
+      "author": "Sigmund Freud",
+      "bgColor": "#E8EFF1"
+    },
+    {
+      "text": "If you deliberately plan on being less than you are capable of being, then I warn you that you'll be unhappy for the rest of your life.",
+      "author": "Abraham Maslow",
+      "bgColor": "#CCC6C6"
+    },
+    {
+      "text": "The aim of Positive Psychology is to catalyze a change in psychology from a preoccupation only with repairing the worst things in life to also building the best qualities in life.",
+      "author": "Martin Seligman",
+      "bgColor": "#899DA3"
+    },
+    {
+      "text": "Probably the biggest insight... is that happiness is not just a place but also a process. ... Happiness is an ongoing process of fresh challenges, and... it takes the right attitudes and activities to continue to be happy.",
+      "author": "Ed Diener",
+      "bgColor": "#E5C7B5"
+    }
+  ]
+}

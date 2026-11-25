@@ -1,0 +1,191 @@
+media:
+  name: images
+  input: assets/images
+  output: assets/images
+  extensions: [jpg, jpeg, png, webp, svg]
+
+content:
+  - name: home
+    label: Home Page
+    type: file
+    path: data/home.json
+    fields:
+      - name: heroLead
+        label: Hero Lead Text
+        type: string
+      - name: heroName
+        label: Hero Name
+        type: string
+      - name: heroSubtitle
+        label: Hero Subtitle
+        type: string
+      - name: heroRci
+        label: Hero RCI Line
+        type: string
+      - name: heroCtaText
+        label: Hero Button Text
+        type: string
+      - name: aboutTitle
+        label: About Preview Title
+        type: string
+      - name: aboutName
+        label: About Preview Subtitle
+        type: string
+      - name: aboutRegNo
+        label: RCI Registration Number
+        type: string
+      - name: aboutDetails
+        label: About Preview Lines
+        type: string
+        list: true
+      - name: aboutCtaText
+        label: About Preview Button Text
+        type: string
+      - name: aboutPhoto
+        label: About Preview Portrait
+        type: image
+        options:
+          media: images
+      - name: expertiseHeading
+        label: Expertise Section Heading
+        type: string
+      - name: expertiseItems
+        label: Expertise Items (numbered automatically)
+        type: string
+        list: true
+      - name: gettingHelpTitle
+        label: Getting Help Heading
+        type: string
+      - name: gettingHelpImage
+        label: Word Cloud Image
+        type: image
+        options:
+          media: images
+      - name: gettingHelpText
+        label: Getting Help Paragraph
+        type: text
+      - name: quotes
+        label: Quote Slideshow
+        type: object
+        list: true
+        fields:
+          - name: text
+            label: Quote Text
+            type: text
+          - name: author
+            label: Author
+            type: string
+          - name: bgColor
+            label: Background Hex Color
+            type: string
+
+  - name: about
+    label: About Me Page
+    type: file
+    path: data/about.json
+    fields:
+      - name: pageTitle
+        label: Page Title
+        type: string
+      - name: tagline
+        label: Tagline
+        type: string
+      - name: bio
+        label: Bio (supports **bold** and *italic*)
+        type: text
+      - name: ctaText
+        label: CTA Button Text
+        type: string
+      - name: portrait
+        label: Portrait Photo
+        type: image
+        options:
+          media: images
+      - name: events
+        label: Event & Media Galleries
+        type: object
+        list: true
+        fields:
+          - name: colorTheme
+            label: Card Color Theme
+            type: select
+            options:
+              values: [peach, lime]
+          - name: description
+            label: Event Description
+            type: text
+          - name: images
+            label: Gallery Photos
+            type: object
+            list: true
+            fields:
+              - name: src
+                label: Photo
+                type: image
+                options:
+                  media: images
+              - name: alt
+                label: Photo Caption / Alt Text
+                type: string
+
+  - name: appointments
+    label: Appointments Page
+    type: file
+    path: data/appointments.json
+    fields:
+      - name: intro
+        label: Intro Line
+        type: string
+      - name: clinics
+        label: Clinic Locations
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: Clinic Name
+            type: string
+          - name: area
+            label: Area / Location Name
+            type: string
+          - name: mapUrl
+            label: Google Maps Link
+            type: string
+          - name: days
+            label: Available Days
+            type: string
+      - name: callButtonText
+        label: Call Button Text
+        type: string
+      - name: bookingPhone
+        label: Booking Phone (with country code, e.g. +917980259266)
+        type: string
+
+  - name: site
+    label: Footer & Contact Settings
+    type: file
+    path: data/site.json
+    fields:
+      - name: email
+        label: Email Address
+        type: string
+      - name: phoneDisplay
+        label: Phone Display Text
+        type: string
+      - name: phoneTel
+        label: Phone Link (tel: number without spaces)
+        type: string
+      - name: whatsappUrl
+        label: WhatsApp Link
+        type: string
+      - name: facebookUrl
+        label: Facebook Link
+        type: string
+      - name: instagramUrl
+        label: Instagram Link
+        type: string
+      - name: linkedinUrl
+        label: LinkedIn Link
+        type: string
+      - name: copyright
+        label: Copyright Notice
+        type: string
